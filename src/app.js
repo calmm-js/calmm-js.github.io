@@ -1,6 +1,8 @@
 import React    from "karet"
 import {render} from "react-dom"
 
+import "./ga"
+
 const App = () =>
   <div>
     <h1>Calmm.js</h1>
